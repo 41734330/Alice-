@@ -60,7 +60,7 @@ heigth:auto
   <td>Dove Soap</td>
   <td>Dove Beauty Cream Bar will not dry out your skin unlike many other soaps as it formulated with moisturising agents.</td>
   <td>Ksh 370.00</td>
-  <td><a href="buy-now3.html">Buy Now</a>a>/td>
+  <td><a href="buy-now 3.html">Buy Now</a>a>/td>
   </tr>
   </tboody>
 </table>
