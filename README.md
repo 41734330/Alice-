@@ -49,14 +49,14 @@ heigth:auto
   <td>a href="buy now 1.html">Buy Now</a></td>
   </tr>
   <tr>
-  <td><img src="C:/User/Alice/https://images.app.goo.gl/nVazX7Ugx/sanitary jpeg"alt="sanitary pad"></td>
+  <td><img src="C:/User/Alice//Downloaded/sanitary jpeg"alt="sanitary pad"></td>
   <td>sanitary pad</td>
   <td>Widly preferred for menstruation support by women across the world,ALWAYS sanitary pads are created to offer complete protection and comfort during their most private days.</td>
   <td>Ksh176.00</td>
   <td>a href="buy-now2.html">Buy Now</a></td>
   </tr>
   <tr>
-  <td><img src="C:/Users/Alice/htttps://images.app.goo.gl/sdThphQTH../dove.jpeg"alt="Dove Soap"></td>
+  <td><img src="C:/Users/Alice/Downloaded./dove.jpeg"alt="Dove Soap"></td>
   <td>Dove Soap</td>
   <td>Dove Beauty Cream Bar will not dry out your skin unlike many other soaps as it formulated with moisturising agents.</td>
   <td>Ksh 370.00</td>
